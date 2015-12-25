@@ -1,0 +1,90 @@
+{ "index": [
+    {
+      "category" : "Apparel",
+      "id": 361245011
+    },
+    {
+      "category" : "Automotive",
+      "id": 2017305051
+    },
+    {
+      "category" : "Baby",
+      "id": 344919011
+    },
+    {
+      "category" : "Beauty",
+      "id": 52391051
+    },
+    {
+      "category" : "Books",
+      "id": 465610
+    },
+    {
+      "category" : "Classical",
+      "id": 701040
+    },
+    {
+      "category" : "DVD",
+      "id": 562002
+    },
+    {
+      "category" : "Electronics",
+      "id": 3210991
+    },
+    {
+      "category" : "ForeignBooks",
+      "id": 52231011
+    },
+    {
+      "category" : "Grocery",
+      "id": 57240051
+    },
+    {
+      "category" : "HealthPersonalCare",
+      "id": 161669011
+    },
+    {
+      "category" : "Hobbies",
+      "id": 13299551
+    },
+    {
+      "category" : "HomeImprovement",
+      "id": 2016930051
+    },
+    {
+      "category" : "Jewelry",
+      "id": 85896051
+    },
+    {
+      "category" : "Kitchen",
+      "id": 3839151
+    },
+    {
+      "category" : "Music",
+      "id": 562032
+    },
+    {
+      "category" : "Shoes",
+      "id": 2016927051
+    },
+    {
+      "category" : "Software",
+      "id": 637630
+    },
+    {
+      "category" : "SportingGoods",
+      "id": 14315361
+    },
+    {
+      "category" : "Toys",
+      "id": 13299551
+    },
+    {
+      "category" : "VideoGames",
+      "id": 637872
+    },
+    {
+      "category" : "Watches",
+      "id": 331952011
+    }
+] }
