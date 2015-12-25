@@ -49,8 +49,6 @@ opHelper.execute('ItemSearch', RequestParam, function(error, results){
     console.error(error);
   }else{
     // TODO: もし該当商品がなかったらやり直し
-    // var element = document.createElement('img')
-    // elemnt.src = 
     var items = results.ItemSearchResponse.Items[0].Item[0];
     console.log(items)
   }

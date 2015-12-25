@@ -3,9 +3,9 @@ var app = express();
 var OperationHelper = require('apac').OperationHelper;
 var opHelper = new OperationHelper({
   endPoint:   'ecs.amazonaws.jp',     // APIのエンドポイント。日本の場合はecs.amazonaws.jp
-  awsId:      'AKIAJRUBKQ2CK7Y47MQQ', // 自分のAccess Key ID
-  awsSecret:  'kVT8+8HB6JNY9VBHgSncoMA3DZBCzMt0mTUMtGdn', // 自分のSecret Access Key
-  assocId:    'mijuku-22' // 自分のアソシエイトID
+  awsId:      process.env.AWSID, // 自分のAccess Key ID
+  awsSecret:  process.env.AWSSECRETID, // 自分のSecret Access Key
+  assocId:    process.env.ASSOCID // 自分のアソシエイトID
 });
 
 process.on('uncaughtException', function(err) {
